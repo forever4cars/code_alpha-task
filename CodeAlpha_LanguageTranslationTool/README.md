@@ -1,4 +1,4 @@
-Language Translator Application
+🌐 Language Translator Application
 (A GUI-based real-time translation tool built with Python (Tkinter) and GoogleTranslator API.)
 
 📌 Overview
